@@ -1,13 +1,11 @@
 # GA4_realtime
+[Google cloud](https://console.cloud.google.com/apis/credentials?project=smartclick-main)
+1.Create Service Account
+2.Set new mail to GA 
 
-Google cloud(https://console.cloud.google.com/apis/credentials?project=smartclick-main)
--Create Service Account
--Set new mail to GA 
-
-
-GA(https://analytics.google.com/analytics/web/#/a235285672p324194880/admin/property/settings)
--Get property
+[GA](https://www.example.com](https://analytics.google.com/analytics/web/#/a235285672p324194880/admin/property/settings)
+1.Get property ID 
 
 
-Google Analytics Data API (GA4)
-  - API Dimensions & Metrics - https://developers.google.com/analytics/devguides/reporting/data/v1/api-schema
+[Google Analytics Data API -->API Dimensions & Metric](https://developers.google.com/analytics/devguides/reporting/data/v1/api-schema)
+
