@@ -7,4 +7,4 @@
 2.Set new mail to GA 
 
 ## [Google Analytics Data API -->API Dimensions & Metric](https://developers.google.com/analytics/devguides/reporting/data/v1/api-schema)
-##[ReportType](https://support.google.com/analytics/answer/9271392?hl=en)
+## [ReportType](https://support.google.com/analytics/answer/9271392?hl=en)
