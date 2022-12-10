@@ -3,7 +3,7 @@
 1.Create Service Account
 2.Set new mail to GA 
 
-[GA](https://www.example.com](https://analytics.google.com/analytics/web/#/a235285672p324194880/admin/property/settings)
+[GA](https://analytics.google.com/analytics/web/#/a235285672p324194880/admin/property/settings)
 1.Get property ID 
 
 
